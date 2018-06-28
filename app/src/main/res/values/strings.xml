@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Speech 3 Playback</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="action_deep_link">
+        com.google.android.gms.samples.appinvite.DEEP_LINK_ACTION
+    </string>
+
+    <string name="invite">Send invitations! Speech 3</string>
+    <string name="welcome">Invites Speech 3</string>
+    <string name="referrer_hint">Deep link not provided Speech 3</string>
+    <string name="deep_link_default">Deep link not set Speech 3</string>
+    <string name="invitation_id_default">Invitation ID not set Speech 3</string>
+    <string name="invite_friends">Invite Friends Speech 3</string>
+
+    <string name="invitation_title">Send App Invite Quickstart Invitation Speech 3</string>
+    <string name="invitation_message">Test Message from Speech 3</string>
+    <!--<string name="invitation_deep_link">http://example.com/offer/five_dollar_offer</string>-->
+    <string name="invitation_deep_link">http://casualwoodsman.com/index.html</string>
+    <string name="invitation_custom_image">https://developers.google.com/identity/images/g-logo.png</string>
+    <string name="invitation_cta">Install! Speech 3</string>
+
+    <string name="deep_link_fmt" formatted="false">Deep Link Speech 3: %s</string>
+
+    <string name="send_failed">Sending invitations failed</string>
+    <string name="invite_dialog_title">You got an invitation! Speech 3</string>
+
+    <string name="google_play_services_error">Google Play Services Error Speech 3</string>
+
+
+</resources>

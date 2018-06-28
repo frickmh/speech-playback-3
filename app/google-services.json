@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "731561896552",
+    "firebase_url": "https://speech-playback-3.firebaseio.com",
+    "project_id": "speech-playback-3",
+    "storage_bucket": "speech-playback-3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731561896552:android:76a4f3c0d7942d40",
+        "android_client_info": {
+          "package_name": "com.fric.speechplayback3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731561896552-qpur3e0c03rqac0kalv8c967e6se3rta.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fric.speechplayback3",
+            "certificate_hash": "e3c32ac045743a86ce1fef55088a461e09c9da5c"
+          }
+        },
+        {
+          "client_id": "731561896552-sbg7181bagplkb60jfep2numatuvs6bq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx56UbSWMiCIyTF6VOmwy_0hMgcmrZpE8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731561896552-sbg7181bagplkb60jfep2numatuvs6bq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
